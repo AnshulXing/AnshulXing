@@ -1,6 +1,19 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulXing&theme=tokyonight)
+<table>
+<tr>
+  <td align="center">
+  <p align="center">
+  <a href="https://github.com/AnshulXing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/AnshulXing">
+    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulXing&show_icons=true&locale=en&layout=compact&theme=radical" />
+  </a>
+  </td>
+</p>
+</details>
+</table>
 
 
 
