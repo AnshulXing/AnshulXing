@@ -20,7 +20,7 @@
 <p align="left">
   <a>
     <img height="140" width="140" src="https://github.com/AnshulXing/AnshulXing/blob/main/PNG/left.png">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulXing&theme=java-dark)](https://git.io/streak-stats)
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anshulXing&theme=java-dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
     <img height="140" width="140" src="https://github.com/AnshulXing/AnshulXing/blob/main/PNG/right.png">
   </a>
 </p>
