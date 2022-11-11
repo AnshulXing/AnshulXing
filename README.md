@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td align="center">
-  <p align="center">
+  
   <a href="https://github.com/AnshulXing">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
   </a>
