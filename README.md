@@ -4,5 +4,5 @@
 
 
 
-<img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulXing&theme=great-gatsby)](https://git.io/streak-stats)"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulXing&theme=great-gatsby)](https://git.io/streak-stats)
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
