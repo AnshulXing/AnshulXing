@@ -3,7 +3,7 @@
   <td align="center">
   
   <a href="https://github.com/AnshulXing">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
+    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
   </a>
   </td>
   <td align="center">
