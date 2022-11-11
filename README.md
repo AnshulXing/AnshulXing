@@ -16,6 +16,12 @@
 </table>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulXing&theme=java-dark)](https://git.io/streak-stats)
+<br>
+<p align="left">
+  <a>
+    <img height="140" width="140" src="https://github.com/AnshulXing/AnshulXing/blob/main/PNG/left.png">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=AnshulXing&theme=java-dark)](https://git.io/streak-stats)
+    <img height="140" width="140" src="https://github.com/AnshulXing/AnshulXing/blob/main/PNG/right.png">
+  </a>
+</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
