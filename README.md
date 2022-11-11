@@ -5,4 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulXing&theme=tokyonight)
 
 
-https://github-readme-stats.vercel.app/api/top-langs?username=AnshulXing&show_icons=true&theme=cobalt&locale=en&layout=compact
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=kacho_ga)](https://git.io/streak-stats)
