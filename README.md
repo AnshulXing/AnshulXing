@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Anshul - @AnshulXing
+## Anshul Singh - @AnshulXing
 <table>
 <tr>
   <td align="center">
