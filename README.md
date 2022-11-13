@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Anshul Singh - @AnshulXing
+<h1 align="center"> Glad to see you 👀 here. </h1>
 <table>
 <tr>
   <td align="center">
@@ -28,3 +26,4 @@
   </a>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
+- 📫 How to reach me **rohitghadge1000@gmail.com**
