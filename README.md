@@ -26,4 +26,4 @@
   </a>
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
-- 📫 How to reach me: anshulsingh1933@gmail.com
+<h2>- 📫 How to reach me: anshulsingh1933@gmail.com</h2>
