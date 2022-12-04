@@ -51,9 +51,11 @@
     <img height="140" width="140" src="https://github.com/AnshulXing/AnshulXing/blob/main/PNG/right.png">
   </a>
 </p>
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
 <h3>Fun Fact 🦥: I am an ambulance...🚑...
 My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
-
+[![GitHub Views](https://komarev.com/ghpvc/?username=AnshulXing&color=FAC151)][1]
 
