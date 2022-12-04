@@ -57,5 +57,5 @@
 <h3>Fun Fact 🦥: I am an ambulance...🚑...
 My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
-https://komarev.com/ghpvc/?username=AnshulXing&color=FAC151
+
 
