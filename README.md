@@ -27,7 +27,11 @@
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AnshulXing&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true">
-(https://holopin.me/anshulxing)](https://holopin.io/@anshulxing)
+
+
+[![@anshulxing's Holopin board](https://holopin.me/anshulxing)](https://holopin.io/@anshulxing)
+
+
 <h3>Fun Fact 🦥: I am an ambulance...🚑...
 My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
