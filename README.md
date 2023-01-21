@@ -40,4 +40,4 @@ My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
 
 
-![visitors](https://profile-counter.glitch.me/anshawasthi01/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/AnshulXIng/count.svg?align=center)
