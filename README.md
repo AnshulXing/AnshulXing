@@ -41,3 +41,4 @@ My pronouns are wee/woo.</h3>
 
 
 ![visitors](https://profile-counter.glitch.me/AnshulXing/count.svg?align=center)
+<img src="https://komarev.com/ghpvc/?username=anshawasthi01&label=Profile%20views&color=0e75b6&style=flat" alt="AnshulXing" />
