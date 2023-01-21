@@ -7,7 +7,7 @@
   <td align="center">
   
   
-  <a href="https://github.com/AnshulXing">
+ c <a href="https://github.com/AnshulXing">
     <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
   </a>
   </td>
@@ -39,3 +39,5 @@
 My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
 
+
+<!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshulXing)   -->
