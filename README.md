@@ -40,4 +40,4 @@ My pronouns are wee/woo.</h3>
 <h3>- 📫 How to reach me: anshulsingh1933@gmail.com</h3>
 
 
-<!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=AnshulXing)   -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=AnshulXing) 
