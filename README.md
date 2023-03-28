@@ -20,7 +20,7 @@
     
     
   
- c <a href="https://github.com/AnshulXing">
+ <a href="https://github.com/AnshulXing">
     <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=AnshulXing&show_icons=true&locale=en&theme=radical"/>
   </a>
   </td>
